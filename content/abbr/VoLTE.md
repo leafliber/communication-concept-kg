@@ -28,5 +28,9 @@ VoLTE 是基于 LTE 网络的语音业务解决方案，通过 IMS（IP Multimed
 - [[VoNR]] - 5G 语音
 - [[CSFB]] - 语音回落
 - [[IMS]] - IP 多媒体子系统
-- [[eNodeB]] - 4G 基站
+- [[eNB]] - 4G 基站
+- [[LTE]] - 4G 网络基础
+- [[QCI]] - 语音业务 QoS 等级
+
+> 反向链接: [[LTE]] 中包含 VoLTE 的应用说明
 

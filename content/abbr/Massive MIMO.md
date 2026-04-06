@@ -39,8 +39,11 @@ Massive MIMO 是 5G 的核心技术之一，通过在基站配置大规模天线
 
 ### 相关概念
 
-- [[MIMO]] - 多输入多输出
+- [[MIMO]] - 多输入多输出基础
 - [[Beamforming]] - 波束赋形
 - [[AAU]] - 有源天线单元
 - [[5G-Advanced]] - 5G 增强版
+- [[eMBB]] - Massive MIMO 是 eMBB 的核心技术
+
+> 反向链接: [[AAU]] 支持 Massive MIMO 配置
 
